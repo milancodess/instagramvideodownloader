@@ -3,7 +3,7 @@ This is a simple tool to download videos from Instagram within some seconds, sup
 
 ````
 apt update && apt upgrade
-pkg install -r requirements.txt
+pkg install requirements.txt
 git clone https://github.com/milanproo/instagramvideodownloader
 cd instagramvideodownloader
 python run.py
